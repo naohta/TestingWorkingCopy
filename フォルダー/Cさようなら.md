@@ -1,0 +1,2 @@
+- Start with ASCII char
+- `さようなら` means `good-bye`
